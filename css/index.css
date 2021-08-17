@@ -1,5 +1,7 @@
 body{
-    /* background-color:rgba(0, 128, 0, 0.2); */
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 100%;
 }
 img {
     left: 50px;
