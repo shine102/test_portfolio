@@ -5,7 +5,7 @@ body{
 }
 img {
     left: 50px;
-    border-radius:15%;
+    border-radius:30%;
     -moz-border-radius:15%;
     -webkit-border-radius:15%;
 }
