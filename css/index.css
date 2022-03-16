@@ -2,10 +2,16 @@ body{
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-size: 100%;
+    background-color: darkgrey;
 }
 img {
     left: 50px;
     border-radius:30%;
     -moz-border-radius:15%;
     -webkit-border-radius:15%;
+}
+
+button{
+    border-radius: 4px;
+    background-color: green;
 }
